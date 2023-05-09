@@ -71,6 +71,11 @@
     filter: sepia(100%) blur(5px);
 }
 
+.ex-8-img:hover {
+    border-radius: 10px;
+    filter: sepia(80%) blur(2px);
+}
+
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
